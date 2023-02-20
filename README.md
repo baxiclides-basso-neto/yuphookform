@@ -9,13 +9,13 @@
 <h1 align="center">Yuphookform</h1>
 
 <p align="center">
-  <img alt="ReactJS" src="https://img.shields.io/github/languages/top/{{baxiclides-basso-neto}}/yuphookform?color=56BEB8">
+  <img alt="ReactJS" src="https://img.shields.io/github/languages/top/baxiclides-basso-neto/yuphookform?color=56BEB8">
 
-  <img alt="React-Hook-Form" src="https://img.shields.io/github/languages/count/{{baxiclides-basso-neto}}/yuphookform?color=56BEB8">
+  <img alt="React-Hook-Form" src="https://img.shields.io/github/languages/count/baxiclides-basso-neto/yuphookform?color=56BEB8">
 
  
 
-  <img alt="MIT LICENSE" src="https://img.shields.io/github/license/{{baxiclides-basso-neto}}/yuphookform?color=56BEB8">
+  <img alt="MIT LICENSE" src="https://img.shields.io/github/license/baxiclides-basso-neto/yuphookform?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/yuphookform?color=56BEB8" /> -->
 
@@ -39,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{baxiclides-basso-neto}}" target="_blank">Author</a>
+  <a href="https://github.com/baxiclides-basso-neto" target="_blank">Author</a>
 </p>
 
 <br>
@@ -85,10 +85,10 @@ $ yarn start
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](license) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{Baxiclides Basso Neto}}</a>
+Made with :heart: by <a href='https://github.com/baxiclides-basso-neto' target="_blank">{{Baxiclides Basso Neto}}</a>
 
 &#xa0;
 
