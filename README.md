@@ -9,13 +9,13 @@
 <h1 align="center">Yuphookform</h1>
 
 <p align="center">
-  <img alt="ReactJS" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/yuphookform?color=56BEB8">
+  <img alt="ReactJS" src="https://img.shields.io/github/languages/top/{{baxiclides-basso-neto}}/yuphookform?color=56BEB8">
 
-  <img alt="React-Hook-Form" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/yuphookform?color=56BEB8">
+  <img alt="React-Hook-Form" src="https://img.shields.io/github/languages/count/{{baxiclides-basso-neto}}/yuphookform?color=56BEB8">
 
  
 
-  <img alt="MIT LICENSE" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/yuphookform?color=56BEB8">
+  <img alt="MIT LICENSE" src="https://img.shields.io/github/license/{{baxiclides-basso-neto}}/yuphookform?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/yuphookform?color=56BEB8" /> -->
 
@@ -57,8 +57,8 @@ A form build using React Hook Form and Yup
 The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
-- [Node.js](https://react-hook-form.com/)
-- [Expo](https://www.npmjs.com/package/yup)
+- [React Hook Form](https://react-hook-form.com/)
+- [Yup](https://www.npmjs.com/package/yup)
 
 
 ## :white_check_mark: Requirements ##
