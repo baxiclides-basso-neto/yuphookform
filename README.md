@@ -34,12 +34,12 @@
 
 <p align="center">
   <a href="#dart-about">Form</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">FORM</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Login</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">ReactJS</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{BAXICLIDES-BASS-NETO}}" target="_blank">Author</a>
+  <a href="https://github.com/{{baxiclides-basso-neto}}" target="_blank">Author</a>
 </p>
 
 <br>
